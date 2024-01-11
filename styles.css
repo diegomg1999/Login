@@ -1,0 +1,44 @@
+html {
+    width: 100%;
+}
+
+nav {
+    display: flex;
+    border-bottom: 1px solid #cbd5e1;
+    padding-bottom: 2px;
+}
+
+.logito {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 41px;
+}
+
+.semi-title {
+    display: flex;
+    align-items: center;
+}
+
+.semi-title h1{
+    margin: 9px 0px 15px 24px;
+    box-sizing: border-box;
+    width: 183px; 
+}
+
+.space-between {
+    width: 44%;
+}
+
+.insert-inputs {
+    display: flex;
+    justify-content: flex-end;
+    width: 535px;
+    margin-left: -16px;
+}
+.log-in {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 354px;
+}
+
